@@ -80,14 +80,17 @@ Controlar que el contador de intentos se incremente cuando corresponde.
 
  Agregar tests automatizados.
 
-👨‍💻 Autor
+
+
+## 🧑‍💻 Autor
 
 Matías De Arriba
 QA Tester Manual | En formación como Desarrollador Web (JavaScript / React / Node.js)
 
-🔗 LinkedIn
+**Matías De Arriba** — QA Tester Manual | En formación como Desarrollador Web (JavaScript / React / Node.js)
 
-🐙 GitHub
+- 🔗 [LinkedIn](https://www.linkedin.com/in/matias-de-arriba/)
+- 🐙 [GitHub](https://github.com/MatiasDeArriba)
 
 
 ```text
