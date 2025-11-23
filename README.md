@@ -30,7 +30,9 @@ JavaScript (ES6+)
 HTML5
 
 CSS3
+
 ---
+
 ### 🔍 Enfoque desde QA / Testing
 
 Este proyecto también lo uso para practicar pensamiento de QA.
