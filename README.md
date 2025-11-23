@@ -30,6 +30,65 @@ JavaScript (ES6+)
 HTML5
 
 CSS3
+---
+### 🔍 Enfoque desde QA / Testing
+
+Este proyecto también lo uso para practicar pensamiento de QA.
+Algunas ideas de pruebas:
+
+✅ Pruebas funcionales (manuales)
+
+Verificar que:
+
+Al hacer clic en una carta, esta se voltea.
+
+Al seleccionar dos cartas iguales, queden bloqueadas / marcadas como encontradas.
+
+Al seleccionar dos cartas diferentes, se vuelvan a ocultar después de un breve tiempo.
+
+Cuando todas las parejas se encuentran:
+
+Se muestre un mensaje de victoria o estado de “juego completado”.
+
+Probar en distintos navegadores (Chrome, Firefox, Edge).
+
+Probar en diferentes tamaños de pantalla (desktop / mobile).
+
+🧪 Ideas para pruebas automatizadas (a futuro)
+
+Unit tests con Jest + React Testing Library para:
+
+Comprobar que el componente de carta se renderiza correctamente.
+
+Validar que el estado del juego se actualiza bien al encontrar una pareja.
+
+Controlar que el contador de intentos se incremente cuando corresponde.
+
+🧩 Posibles mejoras (Roadmap)
+
+ Agregar niveles de dificultad (fácil / medio / difícil).
+
+ Mostrar contador de tiempo y movimientos.
+
+ Guardar mejores puntuaciones en LocalStorage.
+
+ Animaciones al voltear cartas.
+
+ Sonidos al acertar o fallar.
+
+ Versión responsive completamente adaptada para mobile.
+
+ Agregar tests automatizados.
+
+👨‍💻 Autor
+
+Matías De Arriba
+QA Tester Manual | En formación como Desarrollador Web (JavaScript / React / Node.js)
+
+🔗 LinkedIn
+
+🐙 GitHub
+
 
 ```text
 juego-de-memoria/
@@ -44,3 +103,4 @@ juego-de-memoria/
 │  └─ ...
 ├─ package.json         # Dependencias y scripts
 └─ README.md            # Documentación del proyecto
+ 
